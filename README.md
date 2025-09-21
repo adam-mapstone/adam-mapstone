@@ -1,5 +1,5 @@
 # Hey, I'm Mappy 👋:
-I'm a developer based in South West, England.
+I’m a developer located in the South West of England.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
