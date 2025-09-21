@@ -1,4 +1,4 @@
-# Hey, I'm Mappy 👋:
+# Hey, I'm Mappy 👋
 I’m a developer located in the South West of England.
 
 # 💻 Tech Stack:
@@ -8,7 +8,6 @@ I’m a developer located in the South West of England.
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=adam-mapstone&theme=dark&hide_border=true)<br/>
